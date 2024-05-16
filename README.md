@@ -1,6 +1,4 @@
-# Anlık Görüntülerle Kendi Yedekleme Sunucunuzu Çalıştırın
-
-## Sistemi Güncelleme ve Docker Kurulumu
+# Sistemi Güncelleme ve Docker Kurulumu
 ```bash
 sudo apt update && \
 sudo apt install curl git docker.io -y
