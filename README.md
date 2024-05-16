@@ -1,4 +1,4 @@
-# Sistemi Güncelleme ve Docker Kurulumu
+# Docker
 ```bash
 sudo apt update && \
 sudo apt install curl git docker.io -y
